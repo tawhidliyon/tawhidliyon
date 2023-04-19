@@ -43,19 +43,15 @@
 <details>
   <summary>Stats 📈</summary>
   <br/>
-          <!--<a href="https://app.daily.dev/SimplyVoid"><img src="https://api.daily.dev/devcards/8a574eb927c04cd4a7c52891adc31143.png?r=xqd" width="400" alt="Wahid Islam's Dev Card"/></a> -->
-          <img src="./github-metrics.svg" />
+         <picture>
+          <source 
+           srcset="https://github-readme-stats.vercel.app/api?username=tawhidliyon&show_icon=true&theme=codeSTACKr"
+           media="(prefers-color-scheme: dark)"
+          />
+          <source 
+           srcset="https://github-readme-stats.vercel.app/api?username=tawhidliyon&show_icon=true&theme=swift"
+           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference"
+          />
+         </picture>
   <br/>
-</details>
-
-<details>
-  <summary>GPG 🔑</summary>
-
-```sh
-curl -sL https://github.com/simplyvoid.gpg | gpg --import
-```
-
-```console
-F8E4 B12A 4469 44EC 2DD0 9FF4 E041 77E2 AC4B A39F
-```
 </details>
